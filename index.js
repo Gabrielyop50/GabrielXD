@@ -103,7 +103,7 @@ const {
   + 'VERSION:3.0\n'
   + 'FN:Mr.Pato\n' // Nama
   + 'ORG:Mr.Pato-Bot;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=17693039228:+1 769 303-9223n' // Nomor bot
+  + 'TEL;type=CELL;type=VOICE;waid=0971356002:+595 971 356002\n'// Nomor bot
   + 'END:VCARD' 
   
   
